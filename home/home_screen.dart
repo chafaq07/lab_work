@@ -3,12 +3,12 @@ import 'package:flutter/material.dart';
 class HomeScreen extends StatelessWidget {
   final List<Map<String, dynamic>> subjects = [
     {
-      'name': 'Mobile App Development',
-      'teacher': 'Mr. Nabeel Akram',
+      'name': 'Tele-communication',
+      'teacher': 'Dr. Muhammad Usman Younus',
       'credits': 3,
     },
     {
-      'name': 'Data Structures',
+      'name': 'Data Structures & Algorithm',
       'teacher': 'Mr. Hassan Iftikhar',
       'credits': 4,
     },
